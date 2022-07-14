@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - Accept Alert Present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93f0bd7b-f05c-4f4f-8bee-7a1ce1c8f844</testCaseGuid>
+</TestCaseEntity>

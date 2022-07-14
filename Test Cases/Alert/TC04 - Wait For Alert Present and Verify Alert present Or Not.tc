@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - Wait For Alert Present and Verify Alert present Or Not</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd76d4cb-f886-4464-ad16-71b4193df00f</testCaseGuid>
+</TestCaseEntity>

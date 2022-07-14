@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Get Alert and Verify Text Alert Present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69d6988f-0591-467a-ac44-e962e48f97bd</testCaseGuid>
+</TestCaseEntity>
